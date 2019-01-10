@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Data Binding + RecyclerView</string>
+    <string name="dummy_text">dummy_text</string>
+</resources>
