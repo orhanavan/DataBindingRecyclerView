@@ -1,5 +1,5 @@
 # DataBindingRecyclerView
-### A recyclerView with DataBinding and Picaso.
+### A recyclerView with DataBinding and Picasso.
 
 Data Binding ve Picasso kütüphaneleri ile oluşturulmuş standart recyclerView.
 Video tutorial olarak [buradan](https://www.youtube.com/watch?v=ob8HyqHMr54) yararlandım.
